@@ -1,0 +1,127 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:2:1-65:12
+INJECTED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:2:1-65:12
+	package
+		ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:13:22-76
+application
+ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:15:5-63:19
+	android:label
+		ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:18:9-41
+	android:icon
+		ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:17:9-38
+	android:allowBackup
+		ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:19:9-62
+activity#com.anjoyo.wangyan.activity.MainActivity
+ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:20:9-24:20
+	android:screenOrientation
+		ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:23:13-49
+	android:label
+		ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:22:13-45
+	android:name
+		ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:21:13-68
+activity#com.anjoyo.wangyan.activity.Launcher
+ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:25:9-33:20
+	android:screenOrientation
+		ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:28:13-49
+	android:icon
+		ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:27:13-42
+	android:name
+		ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:26:13-64
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:29:13-32:29
+action#android.intent.action.MAIN
+ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:31:27-74
+activity#com.anjoyo.wangyan.activity.LocalMusic
+ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:34:9-37:20
+	android:screenOrientation
+		ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:36:13-49
+	android:name
+		ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:35:13-66
+activity#com.anjoyo.wangyan.activity.PlayerAndLyric
+ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:38:9-41:20
+	android:screenOrientation
+		ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:40:13-49
+	android:name
+		ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:39:13-70
+activity#com.anjoyo.wangyan.activity.ArtistSelect
+ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:42:9-45:20
+	android:screenOrientation
+		ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:44:13-49
+	android:name
+		ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:43:13-68
+activity#com.anjoyo.wangyan.activity.AlbumSelect
+ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:46:9-49:20
+	android:screenOrientation
+		ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:48:13-49
+	android:name
+		ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:47:13-67
+activity#com.anjoyo.wangyan.activity.ArtistLocalMusic
+ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:50:9-53:20
+	android:screenOrientation
+		ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:52:13-49
+	android:name
+		ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:51:13-72
+activity#com.anjoyo.wangyan.activity.AlbumLocalMusic
+ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:54:9-57:20
+	android:screenOrientation
+		ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:56:13-49
+	android:name
+		ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:55:13-71
+service#com.anjoyo.wangyan.service.PlayerService
+ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:59:9-62:19
+	android:screenOrientation
+		ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:61:13-49
+	android:name
+		ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml:60:13-68
+uses-sdk
+INJECTED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml
+INJECTED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml
+INJECTED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml
+INJECTED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml
+		ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml
+		ADDED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Program\Android File\MusicPlayer\Anjoyo.wangyan.musicplayer\app\src\main\AndroidManifest.xml

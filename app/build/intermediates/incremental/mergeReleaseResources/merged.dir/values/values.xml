@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="darkgrey">#FF808080</color>
+    <color name="green">#FFDCDCDC</color>
+    <color name="grey">#FFC0C0C0</color>
+    <color name="lightgreen">#FFDCDCDC</color>
+    <color name="lightgrey">#FFDCDCDC</color>
+    <color name="normal">#FFF5F5F5</color>
+    <color name="pink">#FFFF1493</color>
+    <color name="transparent">#0EF5F5F5</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="about">关于</string>
+    <string name="about_co">Technologies Co.,Ltd.All rights reserved.</string>
+    <string name="about_copyright">Copyright © 2013 Beijing Anjoyo Wangyan</string>
+    <string name="about_tips">此版本适用于Android2.1及以上固件的设备，本软件下载，安装完全免费。用户在使用过程中所产生的移动业务的数据费用皆由移动通信运营商收取。建议用户向移动通信运营商定制合适的流量套餐，或者选择WLAN网络使用，以减少相关上网数据费用。</string>
+    <string name="about_tips_title">温馨提示</string>
+    <string name="about_version">版本号:1.0.0</string>
+    <string name="action_settings">Settings</string>
+    <string name="album">专辑</string>
+    <string name="app_name">音乐播放器</string>
+    <string name="artist">歌手</string>
+    <string name="artist_default">演唱者</string>
+    <string name="delete">删除</string>
+    <string name="detail">歌曲信息</string>
+    <string name="download">下载</string>
+    <string name="download_music">下载管理</string>
+    <string name="downloading">正在下载</string>
+    <string name="folder">文件夹</string>
+    <string name="gesture_setting">手势开启</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="ilike">我喜欢</string>
+    <string name="local_music">本地音乐</string>
+    <string name="mode_random">欢迎来到我的音乐</string>
+    <string name="my_music">我的音乐</string>
+    <string name="my_playlist">我的歌单</string>
+    <string name="online_music">在线音乐</string>
+    <string name="other">其他</string>
+    <string name="playlist">歌单</string>
+    <string name="quit">退出</string>
+    <string name="ringtone">铃声</string>
+    <string name="setting">设置</string>
+    <string name="song">歌曲</string>
+    <string name="title_default">我的音乐</string>
+    <string name="wifi">仅限Wi-Fi联网</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.anjoyo.wangyan.ui"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="28" />
+
+    <!-- <uses-sdk -->
+    <!-- android:minSdkVersion="19" -->
+    <!-- android:targetSdkVersion="28" /> -->
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.Light.NoTitleBar" >
+        <activity
+            android:name="com.anjoyo.wangyan.activity.MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.anjoyo.wangyan.activity.Launcher"
+            android:icon="@drawable/icon"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.anjoyo.wangyan.activity.LocalMusic"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.anjoyo.wangyan.activity.PlayerAndLyric"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.anjoyo.wangyan.activity.ArtistSelect"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.anjoyo.wangyan.activity.AlbumSelect"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.anjoyo.wangyan.activity.ArtistLocalMusic"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.anjoyo.wangyan.activity.AlbumLocalMusic"
+            android:screenOrientation="portrait" >
+        </activity>
+
+        <service
+            android:name="com.anjoyo.wangyan.service.PlayerService"
+            android:screenOrientation="portrait" >
+        </service>
+    </application>
+
+</manifest>

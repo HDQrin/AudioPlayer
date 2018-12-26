@@ -1,0 +1,490 @@
+[
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\layout_local_music_listview_item.xml.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\layout\\local_music_listview_item.xml"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_sel_local_list_item_arrow.xml.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable\\sel_local_list_item_arrow.xml"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_default_favor.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\default_favor.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_default_playlist_s.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\default_playlist_s.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\layout_local_music_headview.xml.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\layout\\local_music_headview.xml"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_player_actionbar_bck.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\player_actionbar_bck.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_actionbar_scan.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\actionbar_scan.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\layout_scan_dialog.xml.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\layout\\scan_dialog.xml"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\layout_player_music_listview_item.xml.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\layout\\player_music_listview_item.xml"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_popdown_ringtone.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\popdown_ringtone.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_player_pre.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\player_pre.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\layout_launcher.xml.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\layout\\launcher.xml"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_seekbar_bg.xml.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable\\seekbar_bg.xml"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_toggle_off.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\toggle_off.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_player_pause.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\player_pause.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\layout_artist_list_item.xml.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\layout\\artist_list_item.xml"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\layout_player_lyric.xml.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\layout\\player_lyric.xml"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_player_next.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\player_next.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_actionbar_more.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\actionbar_more.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_icon_local_marker.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\icon_local_marker.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_player_mode_single.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\player_mode_single.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_navigation_quit.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\navigation_quit.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_default_user.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\default_user.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_popdown_del.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\popdown_del.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_error_nosimilar_artist.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\error_nosimilar_artist.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_popdown_collect.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\popdown_collect.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_sel_popdown_item.xml.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable\\sel_popdown_item.xml"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_line_actionbar_divider.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\line_actionbar_divider.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_icon_favor.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\icon_favor.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_icon_folder.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\icon_folder.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_navigation_handy_setting.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\navigation_handy_setting.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_actionbar_edit.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\actionbar_edit.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_line_h.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\line_h.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_notify_panel_notification_icon_bg.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_icon_download.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\icon_download.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_notification.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\notification.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_default_user_s_navivation.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\default_user_s_navivation.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\menu_main.xml.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_background_player_bar.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\background_player_bar.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_icon.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_icon_chat_pl.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\icon_chat_pl.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_icon_album.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\icon_album.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_default_cover.jpg.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\default_cover.jpg"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\menu_activity_main_actions.xml.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\menu\\activity_main_actions.xml"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_sel_slide_menu_item.xml.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable\\sel_slide_menu_item.xml"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_icon_folder_list.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\icon_folder_list.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_navigation_background.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\navigation_background.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_sel_list_item.xml.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable\\sel_list_item.xml"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_actionbar_menu.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\actionbar_menu.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_default_user_hole.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\default_user_hole.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_error_offline.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\error_offline.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_icon_mytrack.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\icon_mytrack.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_left_indicator.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\left_indicator.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_sel_local_list_item_arrow_bg.xml.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable\\sel_local_list_item_arrow_bg.xml"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_icon_vip_local_play.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\icon_vip_local_play.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_seekbar.xml.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable\\seekbar.xml"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_backgroud_play.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\backgroud_play.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_popdown_detail.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\popdown_detail.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_sel_online_list_item_download.xml.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable\\sel_online_list_item_download.xml"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_playlist_favor.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\playlist_favor.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_toggle_on.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\toggle_on.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_icon_playlist_line.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\icon_playlist_line.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\layout_notification.xml.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\layout\\notification.xml"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_player_actionbar_queue.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\player_actionbar_queue.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_icon_chat_user.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\icon_chat_user.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_player_mode_loop.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\player_mode_loop.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_error_nothing_app.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\error_nothing_app.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_sel_slide_toogle.xml.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable\\sel_slide_toogle.xml"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_player_progress_thumb.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\player_progress_thumb.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_error_nosimilar_playlist.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\error_nosimilar_playlist.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\layout_local_music.xml.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\layout\\local_music.xml"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_sel_main_actionbar_item.xml.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable\\sel_main_actionbar_item.xml"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_background2_play.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\background2_play.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_sel_player_actionbar_queue.xml.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable\\sel_player_actionbar_queue.xml"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_popmenu_scan.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\popmenu_scan.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_player_mode_random.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\player_mode_random.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_sel_main_list_item.xml.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable\\sel_main_list_item.xml"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_bg_disk.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\bg_disk.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_un_download.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\un_download.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_loading.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\loading.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_default_album_s.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\default_album_s.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\layout_slide_menu_main.xml.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\layout\\slide_menu_main.xml"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_player_actionbar_queue_open.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\player_actionbar_queue_open.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_down.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\down.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_player_mode_order.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\player_mode_order.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_icon_subscribe_more.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\icon_subscribe_more.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_icon_play_random.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\icon_play_random.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_boder.xml.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable\\boder.xml"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_action_arrow.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\action_arrow.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_navigation_playlist.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\navigation_playlist.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_progress_bar_n.9.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\progress_bar_n.9.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_player_play.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\player_play.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_action_arrow_extend.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\action_arrow_extend.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_actionbar_new.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\actionbar_new.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_icon_artist.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\icon_artist.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_player_line.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\player_line.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_welcome.jpg.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\welcome.jpg"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_actionbar_back.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\actionbar_back.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_progress_bar_p.9.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\progress_bar_p.9.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_background_playlayout.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\background_playlayout.png"
+    },
+    {
+        "merged": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_player_volume.png.flat",
+        "source": "F:\\Program\\Android File\\MusicPlayer\\Anjoyo.wangyan.musicplayer\\app\\src\\main\\res\\drawable-hdpi\\player_volume.png"
+    }
+]

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/normal"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/local_actionbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <ImageButton
+                    android:id="@+id/local_actionbar_back"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/sel_main_actionbar_item"
+                    android:padding="15dp"
+                    android:src="@drawable/actionbar_back" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="3dp"
+                    android:background="#424244" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/line_actionbar_divider" />
+
+            <TextView
+                android:id="@+id/local_actionbar_title"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1"
+                android:paddingLeft="10dp"
+                android:text="@string/local_music"
+                android:textSize="18sp"
+                android:singleLine="true" />
+
+            <ImageButton
+                android:id="@+id/local_actionbar_scan"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:background="@drawable/sel_main_actionbar_item"
+                android:padding="15dp"
+                android:src="@drawable/actionbar_scan" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#282425" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/local_nothing_img"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:src="@drawable/error_nothing_app"
+        android:visibility="gone" />
+
+    <ListView
+        android:id="@+id/local_listview"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:divider="@drawable/line_h"
+        android:scrollbars="none"
+        android:visibility="visible" />
+
+    <RelativeLayout
+        android:id="@+id/local_miniplayer_layout"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#424244"
+        android:gravity="center_vertical" >
+
+        <ImageView
+            android:id="@+id/local_miniplayer_album"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/default_album_s" />
+
+        <ImageView
+            android:id="@+id/local_miniplayer_bg_play"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="40dp"
+            android:paddingTop="2dp"
+            android:src="@drawable/backgroud_play" />
+
+        <ImageButton
+            android:id="@+id/local_miniplayer_play"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/local_miniplayer_bg_play"
+            android:layout_centerVertical="true"
+            android:background="@null"
+            android:src="@drawable/player_play" />
+
+        <ImageButton
+            android:id="@+id/local_miniplayer_next"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@null"
+            android:padding="15dp"
+            android:src="@drawable/player_next" />
+
+        <TextView
+            android:id="@+id/local_miniplayer_song"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="5dp"
+            android:layout_toLeftOf="@id/local_miniplayer_play"
+            android:layout_toRightOf="@id/local_miniplayer_album"
+            android:singleLine="true"
+            android:text="@string/title_default"
+            android:textColor="@color/white"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/local_miniplayer_artist"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/local_miniplayer_song"
+            android:layout_below="@id/local_miniplayer_song"
+            android:layout_toLeftOf="@id/local_miniplayer_play"
+            android:layout_toRightOf="@id/local_miniplayer_album"
+            android:singleLine="true"
+            android:text="@string/artist_default"
+            android:textColor="@color/lightgrey"
+            android:textSize="12sp" />
+    </RelativeLayout>
+
+</LinearLayout>
